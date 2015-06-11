@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Mapitas</string>
+
+    <string name="n1">TERRENO</string>
+    <string name="n2">HIBRIDO</string>
+    <string name="n3">SATELITE</string>
+    <string name="n4">NORMAL</string>
+    <string name="n5">NADA</string>
+
+</resources>
